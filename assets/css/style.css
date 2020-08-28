@@ -49,17 +49,19 @@ body {
 a {
     color: #ffffff;
     text-decoration: none;
+    padding: 20px;
+    display: inline-block;
 }
 
 p {
     font-size: 16px;
 }
 
-figure {
+#figure {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("../images/digital-marketing-meeting.jpg"); alt: "";
     background-size: cover;
     background-position: center;
 }
@@ -80,7 +82,7 @@ figure {
     margin-left: 20px;
 }
 
-.benefits {
+#aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -91,49 +93,43 @@ figure {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefits {
     margin-bottom: 32px;
     color: #ffffff;
+    text-align: center;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+#benefit-lead {
+    margin-top: 10px;
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
+#benefit-brand {
+    margin-top: 10px;
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-cost h3 {
+#benefit-cost {
+    margin-top: 10px;
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img {
+#benefit-lead-img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
+#benefit-brand-img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-cost img {
+#benefit-cost-img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
