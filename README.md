@@ -11,6 +11,8 @@ No installation is necessary; clients may simply visit the website by clicking t
 ## Usage
 Clicking on one of the three tabs at the top of the page will direct the client to each respective section, which provides the client with more information about Horiseon's services. The HTML has been written with accessibility in mind, and will be continuously updated for improved UX. 
 
+![Screen Shot 2020-08-27 at 11 11 19 PM](https://user-images.githubusercontent.com/69770137/91517546-f844ac80-e8bb-11ea-8748-f8469bbd3758.png)
+
 #### Credits
 HMTL viewport code was borrowed from w3schools, found [here.](https://www.w3schools.com/css/css_rwd_viewport.asp) 
 
